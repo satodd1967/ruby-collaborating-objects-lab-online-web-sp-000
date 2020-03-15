@@ -26,7 +26,7 @@ class Song
     new_song
   end
       
-binding.pry
+#binding.pry
 
 end
 
