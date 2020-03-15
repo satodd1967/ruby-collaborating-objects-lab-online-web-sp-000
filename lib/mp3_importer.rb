@@ -11,5 +11,10 @@ class MP3Importer
     Dir.glob("#{path}/*.*").map {|file| file.gsub("#{path}/", "")}
 end
 
+  def import
+end
+
+
 #binding.pry  
+
 end
